@@ -178,3 +178,5 @@ Overall, this project contributes to the development of an efficient, faster, an
 2. Python code file
 3. User Manual Guide
 4. Presention
+
+Clone Directory :   gh repo clone Sabawoon163/Heart_Disease_Prediction_Model-
