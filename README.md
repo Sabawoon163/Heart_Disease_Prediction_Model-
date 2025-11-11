@@ -22,13 +22,14 @@ These libraries, NumPy, sklearn, pandas, and Matplotlib, are essential tools in 
 Data collection is typically the starting point of the process. Datasets can take various forms, including structured and unstructured data, which may contain missing or noisy information. Each data type and format requires specific methods for data handling and management. In addition to this, it's important to mention that the project will also involve the identification and implementation of data cleaning techniques to ensure the accuracy and reliability of the collected data.
 # Data source 
 As part of our project, we aimed to collect data from multiple sources for accurate model training. However, due to time constraints, we obtained the dataset from a single online source for use in our machine learning class project. The dataset is publicly available on the Kaggle website and originates from an ongoing study on heart health in Framingham, Massachusetts. The study's primary goal is to predict a patient's 10-year risk of developing coronary heart disease. It includes information on over 4,000 patients and encompasses 15 different attributes, covering demographic, behavioral, and medical factors. We utilized this dataset to train our models and analyze heart health patterns within the scope of our project. If you're interested in accessing the dataset for your own research or projects, you can find the download link below.
-{Data Set Link } (https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/download?datasetVersionNumber=2)
+[Data Set Link](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/download?datasetVersionNumber=2)
  
 ## Data Exploration 
 In this part where we looked at the data, we checked out the information we got from the Kaggle website about heart health in Framingham, Massachusetts. This information had details about more than 1025 patients and included things like age, behavior, and health info.
 We took a close look at how the different details were spread out, if anything was missing, and if there were any really unusual numbers. We also made some graphs to see how the different details were connected to each other and if we could find any patterns.
 We also did some basic math to understand the main things about the patients and what could predict if they might have heart problems in the next 10 years. This part helped us get a good idea about the information we had and how we could use it to build and test our models for the project.
-Attribute Of the Data Sets
+Attribute Of the Data Sets: 
+
     1.	Age: displays the age of the individual.
     2.	Sex: displays the gender of the individual using the following format: 1 = male 0 = female.
     3.	Chest-pain type : displays the type of chest-pain experienced by the individual using the following format : 1 = typical angina 2 = atypical angina 3 = non - anginal pain 4 = asymptotic
