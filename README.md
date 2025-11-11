@@ -169,7 +169,9 @@ Overall, this project contributes to the development of an efficient, faster, an
 # Bibliography
 
 [1] 	A. D. ,. M. K. R. V.V Ramalingam, "Hearth Diesase predication using Machine Learning Techniques," International Journal of Engineering & Technology , vol. 7, no. 684-687, pp. 2-8, 2018. 
+
 [2] 	J. Soni, U. Ansari, D. Sharma and S. Soni, "Predictive Data Mining for Medical Diagnosis: An Overview," International Journal of Computer Applications (0975 – 8887), vol. 17, no. 8, p. 6, 211. 
+
 [3] 	L. Yahaya, N. D. Oye and A. Adamu, "PERFORMANCE ANALYSIS OF SOME SELECTED MACHINE LEARNING ALGORITHMS ON HEART DISEASE PREDICTION USING THE NOBLE UCI DATASETS," International Journal of Engineering Applied Sciences and Technology, vol. 5, no. 1, pp. 36-46, 2020. 
 
 
